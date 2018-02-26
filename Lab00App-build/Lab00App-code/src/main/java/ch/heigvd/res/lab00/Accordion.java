@@ -1,7 +1,7 @@
 /**
  * Created by aebischerle on 19.02.18.
  */
-public class Flute implements IInstrument {
+public class Accordion implements IInstrument {
     @Override
     public String play() {
         return "PFF";
